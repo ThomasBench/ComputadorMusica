@@ -5,8 +5,8 @@ TO DO NOW :
     - Continue de scrap le website pour les autres genres --> ROCK DONE 
 
 - Preprocess : 
-    - preprocess les dfs -> virer les (ver 2) et ensuite virer les duplicates de chansons / Virer les chansons qui ne sont pas en anglais
-    - preprocess les lyrics --> virer les lyrics entre parenthèses 
+    - preprocess les dfs -> virer les (ver 2) et ensuite virer les duplicates de chansons / Virer les chansons qui ne sont pas en anglais -> DONE
+    - preprocess les lyrics --> virer les lyrics entre parenthèses  -> DONE
     - preprocess les chords --> Trouver une représentation vectorielle consistante (notamment les # et b )
 
 - Preliminary Analysis:
