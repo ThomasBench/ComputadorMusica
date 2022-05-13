@@ -2,11 +2,12 @@ TO DO NOW :
 
 - SCRAPING
     - Choisir les autres genres à scrap JAZZ POP Rb funk and soul Country 
-    - Continue de scrap le website pour les autres genres --> ROCK DONE 
+    - Continue de scrap le website pour les autres genres --> ROCK + JAZZ + POP + COUNTRY DONE 
 
 - Preprocess : 
     - preprocess les dfs -> virer les (ver 2) et ensuite virer les duplicates de chansons / Virer les chansons qui ne sont pas en anglais -> DONE
-    - preprocess les lyrics --> virer les lyrics entre parenthèses  -> DONE
+
+    - preprocess les lyrics --> virer les lyrics entre parenthèses
     - preprocess les chords --> Trouver une représentation vectorielle consistante (notamment les # et b )
 
 - Preliminary Analysis:
