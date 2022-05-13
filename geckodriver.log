@@ -15981,3 +15981,366 @@ JavaScript error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_
 1652277138344	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 1652277160771	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
 JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652277215246	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277219669	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277260078	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277262303	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277265273	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277283697	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277308520	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277355185	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277372653	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277395791	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277430303	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277448452	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652277480613	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277506321	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277545952	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277548011	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277561066	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277571341	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277628399	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277642727	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277664572	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/ug~runtime.c672d0615c89c2e5564ec22af056dccc.js, line 1: ChunkLoadError: Loading chunk 6418 failed.
+(error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/202205/6418.2da97540e3bde487f98f245b49b188d1.js)
+1652277671104	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277677777	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277709496	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652277717548	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277719927	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652277767136	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652277794730	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277798934	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277822487	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277846723	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277879581	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277893448	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277899955	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277903814	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277906115	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277915861	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277927038	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652277982951	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652277990586	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278036316	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278061732	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278106743	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278113723	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278123668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278227198	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278233600	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278235141	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278246000	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278262884	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278282196	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278289076	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278330357	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/ug~runtime.c672d0615c89c2e5564ec22af056dccc.js, line 1: ChunkLoadError: Loading chunk 6418 failed.
+(error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/202205/6418.2da97540e3bde487f98f245b49b188d1.js)
+1652278357764	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278371760	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652278391118	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278426163	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278431649	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278435258	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278445760	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278458255	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278465480	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Port.onMessage event fired while context is inactive.
+1652278477668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278490984	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278531546	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278534103	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278543118	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278552945	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278562239	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278582412	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278595986	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278598877	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278614186	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278642547	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278671205	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652278678552	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278688809	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278734425	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278743774	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278763637	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278767484	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-42lf6yq8njab" on cross-origin object
+1652278784941	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278785803	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-q55437sdpdo2" on cross-origin object
+JavaScript error: moz-extension://7f774059-75d2-4817-82be-c71e6f6aee42/js/contentscript.js, line 206: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 63: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://7f774059-75d2-4817-82be-c71e6f6aee42/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-p5a8nyg6emc3" on cross-origin object
+1652278787625	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278789639	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278795831	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652278799339	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-cbo49socb3vh" on cross-origin object
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-s1hpbnu6tiwu" on cross-origin object
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-oj8v9rp0okp" on cross-origin object
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-e8dehtevh8q4" on cross-origin object
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 63: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://7f774059-75d2-4817-82be-c71e6f6aee42/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-cugkt5ypoxzg" on cross-origin object
+1652278811113	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-m9mwmwnus9im" on cross-origin object
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-8nmvv6eqz22j" on cross-origin object
+1652278812949	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.gstatic.com/recaptcha/releases/nEGwmCAyCoKVn9PSwAGnQWhY/recaptcha__en.js, line 735: SecurityError: Permission denied to access property "a-i3r22svu14jj" on cross-origin object
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 63: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: moz-extension://7f774059-75d2-4817-82be-c71e6f6aee42/js/vapi-client.js, line 230: InvalidStateError: An exception was thrown
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\bench\AppData\Local\Temp\rust_mozprofileaqt3ua\thumbnails) because it does not exist
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\bench\AppData\Local\Temp\rust_mozprofileaqt3ua\thumbnails) because it does not exist
+1652284715590	Marionette	INFO	Stopped listening on port 53539
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1652284715701	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1652367177053	geckodriver	INFO	Listening on 127.0.0.1:51099
+1652367183159	mozrunner::runner	INFO	Running command: "C:\\Users\\bench\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "51100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bench\\AppData\\Local\\Temp\\rust_mozprofileYKIE54"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1652367183741	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine google@search.mozilla.org: Error: Extension is invalid"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+DevTools listening on ws://localhost:51100/devtools/browser/afdefa3a-f2d5-486a-a3fe-fe356ea43e4b
+1652367185496	Marionette	INFO	Listening on port 51108
+1652367185823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+[Child 8320, MediaDecoderStateMachine #1] WARNING: Decoder=1f7db76cc00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /var/tmp/build/firefox-46c2ca70ea0b/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 8320, MediaDecoderStateMachine #1] WARNING: Decoder=1f7db76cc00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /var/tmp/build/firefox-46c2ca70ea0b/dom/media/MediaDecoderStateMachine.cpp:3562
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\bench\AppData\Local\Temp\rust_mozprofileYKIE54\thumbnails) because it does not exist
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+1652367327559	Marionette	INFO	Stopped listening on port 51108
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 23156, IPC I/O Parent] WARNING: pipe error: 232: file /var/tmp/build/firefox-46c2ca70ea0b/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652367327680	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1652367334604	geckodriver	INFO	Listening on 127.0.0.1:51384
+1652367340238	mozrunner::runner	INFO	Running command: "C:\\Users\\bench\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "51385" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bench\\AppData\\Local\\Temp\\rust_mozprofilefWF3hK"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1652367340763	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine google@search.mozilla.org: Error: Extension is invalid"
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+DevTools listening on ws://localhost:51385/devtools/browser/c233e597-209d-4ebf-b2f2-905cd3d1a9e5
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900D3,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1652367342740	Marionette	INFO	Listening on port 51391
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 575: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+1652367342924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652367400833	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367414340	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367417106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367419668	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367420831	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/ug~runtime.fb4e94b2d53b224a8816072a2b4ded32.js, line 1: ChunkLoadError: Loading chunk 1423 failed.
+(error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/202205/1423.df191b821d7bfa49147b4d54a042c697.js)
+1652367505544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367541927	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367571925	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367597710	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367615553	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367730935	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367744945	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367792098	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652367844896	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652367919702	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652368017122	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368052062	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368061996	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368111420	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368112732	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368121476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368143298	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368158437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368177374	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368178826	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368212726	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/ug~runtime.fb4e94b2d53b224a8816072a2b4ded32.js, line 1: ChunkLoadError: Loading chunk 1423 failed.
+(error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/202205/1423.df191b821d7bfa49147b4d54a042c697.js)
+1652368291564	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368309469	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368449898	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368455481	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368483982	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368486038	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368519535	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1652368535857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\bench\AppData\Local\Temp\rust_mozprofilefWF3hK\thumbnails) because it does not exist
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+1652372302344	Marionette	INFO	Stopped listening on port 51391
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652372302487	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1652372313988	geckodriver	INFO	Listening on 127.0.0.1:49912
+1652372320081	mozrunner::runner	INFO	Running command: "C:\\Users\\bench\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "49913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bench\\AppData\\Local\\Temp\\rust_mozprofileaG1Wmq"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1652372320590	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine google@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:49913/devtools/browser/dac71db8-1bf0-48f1-8aee-ab452429b4be
+1652372322445	Marionette	INFO	Listening on port 49918
+1652372322749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: moz-extension://97c2f315-3166-43b4-add5-2516d1efabde/nscl/common/log.js, line 36: TypeError: can't access dead object
+JavaScript error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/ug~runtime.fb4e94b2d53b224a8816072a2b4ded32.js, line 1: ChunkLoadError: Loading chunk 1352 failed.
+(error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/202205/1352.8d2c4f307559b227249d9650314d8d5e.js)
+JavaScript error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/ug~runtime.fb4e94b2d53b224a8816072a2b4ded32.js, line 1: ChunkLoadError: Loading chunk 1352 failed.
+(error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/202205/1352.8d2c4f307559b227249d9650314d8d5e.js)
+JavaScript error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/ug~runtime.fb4e94b2d53b224a8816072a2b4ded32.js, line 1: ChunkLoadError: Loading chunk 1352 failed.
+(error: https://tabs.ultimate-guitar.com/static/public/build/ug_react_es6/202205/1352.8d2c4f307559b227249d9650314d8d5e.js)
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\bench\AppData\Local\Temp\rust_mozprofileaG1Wmq\thumbnails) because it does not exist
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\bench\AppData\Local\Temp\rust_mozprofileaG1Wmq\bookmarkbackups\bookmarks-2022-05-12_14_C8yot+vFVTDpvJ1LYu-AaQ==.jsonlz4) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\bench\AppData\Local\Temp\rust_mozprofileaG1Wmq\thumbnails) because it does not exist
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\bench\AppData\Local\Temp\rust_mozprofileaG1Wmq\thumbnails) because it does not exist
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\bench\AppData\Local\Temp\rust_mozprofileaG1Wmq\thumbnails) because it does not exist
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: resource:///modules/DoHHeuristics.jsm, line 211: TypeError: gParentalControlsService is undefined
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 106: Error: Could not get children of file(C:\Users\bench\AppData\Local\Temp\rust_mozprofileaG1Wmq\thumbnails) because it does not exist
+1652431216149	Marionette	INFO	Stopped listening on port 49918
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1652431216348	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1652431267831	geckodriver	INFO	Listening on 127.0.0.1:55741
+1652431273949	mozrunner::runner	INFO	Running command: "C:\\Users\\bench\\Desktop\\Tor Browser\\Browser\\firefox.exe" "--marionette" "--remote-debugging-port" "55742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bench\\AppData\\Local\\Temp\\rust_mozprofilehQNz5W"
+console.log: "TorSettings: loadFromPrefs()"
+console.log: "TorConnect: Init"
+console.log: "TorConnect: observed profile-after-change"
+console.log: "TorConnect: observing topic 'TorBootstrapStatus'"
+console.log: "TorConnect: observing topic 'TorBootstrapError'"
+console.log: "TorConnect: observing topic 'TorProcessExited'"
+console.log: "TorConnect: observing topic 'TorLogHasWarnOrErr'"
+console.log: "TorConnect: observing topic 'torsettings:ready'"
+console.log: "TorSettings: observed profile-after-change"
+1652431274656	Marionette	INFO	Marionette enabled
+console.log: "TorConnect: will load after bootstrap => [about:blank]"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not load engine google@search.mozilla.org: Error: Extension is invalid"
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 161: TypeError: Cc[aContract] is undefined
+console.error: "Could not load engine blockchair-onion@search.mozilla.org: Error: Extension is invalid"
+DevTools listening on ws://localhost:55742/devtools/browser/49ff63c0-ec65-4d37-98e0-f85848048e9e
+1652431276573	Marionette	INFO	Listening on port 55748
+1652431276635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 575: TypeError: PrecompiledScript.executeInGlobal: Argument 1 is not an object.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
