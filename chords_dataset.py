@@ -3,7 +3,8 @@ from torchtext.data.utils import get_tokenizer
 import numpy as np 
 from torch.utils.data import Dataset
 from torch import Tensor
-tokenizer = get_tokenizer("spacy", 'en')
+from math import floor
+
 
 class ChordsDataset(Dataset):
     def __init__(self, df, tok2vec):
@@ -27,6 +28,18 @@ class ChordsDataset(Dataset):
             return vec
     def to_chord_id(self,chord):
         return self.chord2id[chord]
+        
+    def get_train_test_valid_indexes(self, train_prop, test_prop, validation_prop):
+
+        assert (train_prop + test_prop + validation_prop) == 1
+        n = len(self.lyrics)
+        l = np.array(range(n))
+        np.random.shuffle(l)
+        train_indexes = l[0:floor(n*train_prop)]
+        test_indexes = l[floor(n*train_prop):(floor(n*train_prop) + floor(n*test_prop))]
+        validation_indexes = l[(floor(n*train_prop) + floor(n*test_prop)):n]
+        return train_indexes,test_indexes, validation_indexes
+
     def vectorize(self, word):
         if word in self.word2vec:
             return self.word2vec[word]
