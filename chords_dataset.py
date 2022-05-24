@@ -57,6 +57,10 @@ class ChordsDataset(Dataset):
             vec = np.append(self.vectorizer(str(word)).vector, [0,0,0,0])
             self.word2vec[word] = vec
         return vec
+
+    def decode_chord_tensor(self, tensor: Tensor) -> list:
+        return [self.id2chord[int(idx.item())] for idx in tensor]
+    
     def __getitem__(self,idx):
 
         return {

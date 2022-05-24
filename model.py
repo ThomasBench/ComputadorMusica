@@ -51,6 +51,7 @@ class Transformer(nn.Module):
         ).to(device)
         self.fc_out = nn.Linear(embedding_size, trg_vocab_size).to(device)
         self.dropout = nn.Dropout(dropout).to(device)
+        self.softmax = nn.Softmax().to(device)
         self.src_pad_idx = src_pad_idx
 
     def make_src_mask(self, src: Tensor):
@@ -76,5 +77,5 @@ class Transformer(nn.Module):
             src_key_padding_mask = padding_mask,
             tgt_mask = trg_mask
         )
-        output = self.fc_out(output)
+        output = self.softmax(self.fc_out(output))
         return output

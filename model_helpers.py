@@ -23,9 +23,8 @@ def preprocess_text(s):
     news = tokenizer(new_s)
     res = ["<SOS>"]
     for token in news:
-    
         if token != " ":
-            if token == "\r\n":
+            if token == "\r\n" or token == "\r\n ":
                 res.append("<EOL>")
             elif token in corpus:
                 res.append(token)
