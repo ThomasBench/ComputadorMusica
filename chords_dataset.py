@@ -4,18 +4,31 @@ import numpy as np
 from torch.utils.data import Dataset
 from torch import Tensor
 from math import floor
-
-
+import random
+from collections import Counter
 class ChordsDataset(Dataset):
     def __init__(self, df, tok2vec):
         self.vectorizer = tok2vec
         self.lyrics = [literal_eval(str(c)) for c in df.lyrics]
-        self.chords = [literal_eval(c) for c in df.chords] 
+        self.chords = [literal_eval(c) for c in df.best_ngram] 
+        self.rarity = list(df.rarity)
         self.chords_set = set([item for sublist in self.chords for item in sublist] + ["<SOS>", "<EOS>"])
         self.id2chord = {i:k for i,k in enumerate(self.chords_set)}
         self.word2vec = dict()
         self.chord2vec = dict()
         self.chord2id = {k:i for i,k in self.id2chord.items()}
+
+
+        all_chords = []
+        for chord_prog in self.chords:
+            all_chords += list(chord_prog)
+        counter = Counter(all_chords)
+        summation = sum(counter.values())
+        freqs = {i:k/summation for i,k in counter.items()}
+        self.chord_freq =freqs
+    def draw_chord(self):
+        chords, weights = zip(*self.chord_freq.items())
+        return random.choices(chords, weights)
     def __len__(self):
         return len(self.lyrics)
     def to_one_hot(self,chord):
@@ -65,5 +78,6 @@ class ChordsDataset(Dataset):
 
         return {
             "lyrics": Tensor([self.vectorize(word) for word in  self.lyrics[idx] ]),
-            "chords": Tensor([self.to_chord_id(chord) for chord in (["<SOS>"] + self.chords[idx]+["<EOS>"])])
+            "chords": Tensor([self.to_chord_id(chord) for chord in self.chords[idx] ]),
+            "rarity" : self.rarity[idx]
             }

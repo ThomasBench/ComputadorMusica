@@ -27,3 +27,13 @@ TO DO NOW :
 - Model assessment 
 
 - Bonus : Faire une interface / api 
+
+
+
+A FAIRE D'URGENCE 
+- Plot les accords les plus fréquents 
+- PLot les suistes d'accord les plus fréquentes ---> n grams,  n === 4  
+- Plot La distribution des longueurs de suites d'accords 
+- plot la distribution de la rareté 
+- intégrer dans le rapport 3 suites pas rare, 3 suites  moyennement rare, et 3 suites rares ---> n gram 
+- 
