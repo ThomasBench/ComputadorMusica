@@ -2,7 +2,8 @@ from torchtext.data.utils import get_tokenizer
 import spacy 
 from spacy.pipeline.tok2vec import DEFAULT_TOK2VEC_MODEL
 from nltk.corpus import words
-
+import time 
+import math 
 # NLP model for tok2vec
 config = {"model": DEFAULT_TOK2VEC_MODEL}
 NLP = spacy.load("en_core_web_sm")
@@ -30,3 +31,17 @@ def preprocess_text(s):
                 res.append(token)
     res.append("<EOS>")
     return res
+
+def asMinutes(s):
+    m = math.floor(s / 60)
+    s -= m * 60
+    return '%dm %ds' % (m, s)
+
+
+def timeSince(since, percent):
+    now = time.time()
+    s = now - since
+    es = s / (percent)
+    rs = es - s
+    return '%s (- %s)' % (asMinutes(s), asMinutes(rs))
+

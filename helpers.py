@@ -1,16 +1,27 @@
 import pandas as pd 
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+from typing import List
 from driver import create_driver
-
 # DRIVER = create_driver()
-def songs_to_df(songArray): 
+
+class Song:
+    "Small Song class to store all the infos of a specific song, might evolve later"
+    def __init__(self, songName, author, link, lyrics, chords):
+        self.name = songName
+        self.author = author
+        self.link = link
+        self.lyrics = lyrics
+        self.chords = chords
+
+
+def songs_to_df(songArray: List[Song]): 
     return pd.DataFrame([s.__dict__ for s in songArray])
     
-def get_source(link,driver ): 
+def get_source(link: str,driver ): 
     driver.get(link)
     return driver.page_source
-def genre_extractor(filepath):
+def genre_extractor(filepath: str):
     dico = {}
     with open(filepath, "r", encoding = "utf-8") as f:
         data = BeautifulSoup(f, 'lxml').findAll('a')
@@ -24,7 +35,7 @@ def genre_extractor(filepath):
 
 GENRE_DICT = genre_extractor("./data/genre_selector.html")
 
-def create_link(page,genre, date):
+def create_link(page: str,genre: str , date):
     return f"https://www.ultimate-guitar.com/explore?decade[]={date}&genres[]={GENRE_DICT[genre]['value']}&page={page}&type[]=Chords"
 
 
@@ -78,11 +89,3 @@ def treat_tuple(x, driver):
     link = create_link(x[0], x[1], x[2])
     return get_songs_from_link(link, driver)
 
-class Song:
-    "Small Song class to store all the infos of a specific song, might evolve later"
-    def __init__(self, songName, author, link, lyrics, chords):
-        self.name = songName
-        self.author = author
-        self.link = link
-        self.lyrics = lyrics
-        self.chords = chords
