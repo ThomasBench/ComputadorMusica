@@ -86,4 +86,3 @@ class Song:
         self.link = link
         self.lyrics = lyrics
         self.chords = chords
-    
